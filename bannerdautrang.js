@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/ZfZYvX' target='_blank'><img src='http://http://www.hansunvinaco.com/upload/product/thung-carton-5-lop-185_450x355.33980582524.jpg' width='500px'/><br/>sản xuất thùng carton giá rẻ</a>. LH 0988522581 Mr Nghĩa. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/ZfZYvX' target='_blank'><img src='http://www.hansunvinaco.com/upload/product/thung-carton-5-lop-185_450x355.33980582524.jpg' width='500px'/><br/>sản xuất thùng carton giá rẻ</a>. LH 0988522581 Mr Nghĩa. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
